@@ -1,2 +1,5 @@
 # Mechanical_ServiceRobot_task3
-please check the report and the attached files
+Please check the report for the "Morphological analysis"
+and also the attached files
+
+Thank you:)
